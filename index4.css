@@ -1,0 +1,23 @@
+body{
+    background-image: url('ind3.png');
+}
+
+.main{
+    border: 2px solid white;
+    border-radius: 7px;
+    background-color: white;
+    height: 180px;
+    width: 360px;
+    margin: 200px;
+    margin-left: 450px;
+    margin-top: 180px;
+}
+
+.buttons{
+    border: 2px #00A5EC;
+    margin-left: 181px; 
+    width: 120px; 
+    height: 30px;
+    background-color: #00A5EC;
+    color: white;
+}

@@ -1,0 +1,38 @@
+body {
+  background-color: lightgray;
+}
+
+.anch {
+  text-decoration: none;
+}
+
+.box {
+  border: 1px solid white;
+  border-radius: 5px;
+  height: 235px;
+  width: 365px;
+  margin-top: 30px;
+  margin-left: 465px;
+  display: inline-block;
+  background-color: white;
+  -webkit-box-shadow: 0 0 10px #fff;
+  box-shadow: 0 0 10px #fff;
+}
+
+.tl {
+  border: 2px #7b7b7b29;
+  background-color: #ffffff;
+}
+
+.tas {
+  color: black;
+  display: inline-block;
+  font-weight: bold;
+  margin-left: 70px;
+}
+
+.lis {
+  color: #00a5ec;
+  display: inline-block;
+  font-weight: bold;
+}
